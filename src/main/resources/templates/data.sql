@@ -1,0 +1,2 @@
+INSERT INTO DEPARTMENTS (id, name) VALUES (1, 'TI');
+INSERT INTO DEPARTMENTS (id, name) VALUES (2, 'Financeiro');
